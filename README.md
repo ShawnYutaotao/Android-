@@ -8,7 +8,7 @@ Android开发相关技术总结
 以下是对该文档的review
 
 ## 一：Java 语言规范
-参看[《阿里巴巴 Java 开发手册》](https;//yq.aliyun.com/articles/69327)
+[阿里巴巴 Java 开发手册](https://yq.aliyun.com/articles/69327)
 
 
 ## 二: Android 资源文件命名与使用
